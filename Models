@@ -1,0 +1,6 @@
+Models used for translation
+  1. GPT-4 / GPT-4o
+  2. Google’s Translation models (Transformer-based)
+  3.Meta’s No Language Left Behind (NLLB-200)
+  4.DeepL Translation Model
+  5.M2M-100 (Facebook AI) — A multilingual model trained on direct source-target translations without pivoting through English.
