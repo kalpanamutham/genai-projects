@@ -1,1 +1,32 @@
+Example on how Chatgpt is used to translate.
+Scenario: Imagine an online bookstore that offers a variety of titles in multiple languages to cater to a global audience. To expand its reach and provide readers with books in their preferred language, the bookstore utilizes ChatGPT for real-time book translation.
+Prompt: Translate the following book excerpt into multiple languages to make it accessible to a broader audience. 
+Excerpt from the book: "Journeys through the Echoes" is a captivating exploration of ancient civilizations around the globe. In one chapter, the author delves into the hidden cities of the Amazon, revealing secrets that have been shrouded in mystery for centuries. This passage provides insights into the rituals and customs of the tribes, their architectural innovations, and their profound connection with nature.
 
+ouput in GPT
+
+English (Original)
+"Journeys through the Echoes" is a captivating exploration of ancient civilizations around the globe. In one chapter, the author delves into the hidden cities of the Amazon, revealing secrets that have been shrouded in mystery for centuries. This passage provides insights into the rituals and customs of the tribes, their architectural innovations, and their profound connection with nature.
+
+Spanish (Español)
+"Viajes a través de los Ecos" es una fascinante exploración de las civilizaciones antiguas alrededor del mundo. En un capítulo, el autor se adentra en las ciudades ocultas del Amazonas, revelando secretos que han estado envueltos en misterio durante siglos. Este pasaje ofrece una visión de los rituales y costumbres de las tribus, sus innovaciones arquitectónicas y su profunda conexión con la naturaleza.
+
+French (Français)
+"Voyages à travers les Échos" est une exploration captivante des civilisations anciennes à travers le monde. Dans un chapitre, l’auteur plonge dans les cités cachées de l’Amazonie, révélant des secrets enveloppés de mystère depuis des siècles. Ce passage offre des perspectives sur les rituels et coutumes des tribus, leurs innovations architecturales et leur lien profond avec la nature.
+
+German (Deutsch)
+"Reisen durch die Echos" ist eine fesselnde Erkundung antiker Zivilisationen auf der ganzen Welt. In einem Kapitel taucht der Autor in die verborgenen Städte des Amazonas ein und enthüllt Geheimnisse, die seit Jahrhunderten im Verborgenen liegen. Dieser Abschnitt gibt Einblicke in die Rituale und Bräuche der Stämme, ihre architektonischen Innovationen und ihre tiefe Verbundenheit mit der Natur.
+
+Chinese (Simplified 中文)
+《回声之旅》是一部引人入胜的著作，探索了世界各地的古代文明。在其中一章中，作者深入探讨了亚马逊的隐藏城市，揭示了被神秘笼罩了数百年的秘密。这一章节展示了部落的仪式与习俗、他们的建筑创新，以及他们与自然之间深厚的联系。
+
+Japanese (日本語)
+『エコーを巡る旅』は、世界中の古代文明を魅力的に探求する作品です。ある章では、著者がアマゾンの隠された都市に迫り、何世紀にもわたり謎に包まれてきた秘密を明かします。この部分では、部族の儀式や風習、建築上の革新、そして自然との深い繋がりについて洞察を提供しています。
+
+Hindi (हिंदी)
+"इकोज़ के माध्यम से यात्राएं" प्राचीन सभ्यताओं की एक आकर्षक खोज है जो पूरी दुनिया में फैली हुई हैं। एक अध्याय में, लेखक अमेज़न के छिपे हुए शहरों में उतरते हैं, उन रहस्यों को उजागर करते हैं जो सदियों से रहस्य में डूबे हुए हैं। यह अंश जनजातियों के रीति-रिवाजों, उनकी वास्तुकला में नवाचारों और प्रकृति के साथ उनके गहरे संबंधों की झलक प्रदान करता है।
+
+
+
+Explored which model is used and learned the models availble in market
+GPT-4 / GPT-4o
